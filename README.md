@@ -68,6 +68,8 @@ In this subsection, you’ll create a smart contract that defines KaseiCoin as a
 
 8. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your GitHub repository.
 
+![](Images/img1.png)
+
 ### Step 2: Create the KaseiCoin Crowdsale Contract
 
 In this subsection, you’ll define the KaseiCoin crowdsale contract. To do so, complete the following steps:
@@ -87,6 +89,8 @@ In this subsection, you’ll define the KaseiCoin crowdsale contract. To do so, 
 5. Check for any errors, and debug them as needed.
 
 6. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your GitHub repository.
+
+![](Images/img2.png)
 
 ### Step 3: Create the KaseiCoin Deployer Contract
 
@@ -126,11 +130,17 @@ Next, in the `KaseiCoinCrowdsaleDeployer` contract, you’ll add variables to st
 
 7. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your Git repository.
 
+![](Images/img1.png)
+
 ### Step 4: Deploy and Test the Crowdsale on a Local Blockchain
 
 In this subsection, you’ll deploy the crowdsale to a local blockchain. You’ll then perform a real-world, preproduction test of your crowdsale. To do so, complete the following steps:
 
 > **Important:** Record a short video or take screenshots that illustrate the following steps as evidence of your deployed crowdsale contract.
+
+![](Images/img4.png)
+
+![](Images/img5.png)
 
 1. Deploy the crowdsale to a local blockchain by using Remix, MetaMask, and Ganache.
 
